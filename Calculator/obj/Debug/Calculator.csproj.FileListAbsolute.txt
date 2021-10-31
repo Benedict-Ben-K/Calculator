@@ -1,0 +1,6 @@
+/Users/benedictkawala/Projects/Calculator/bin/Debug/Calculator.exe
+/Users/benedictkawala/Projects/Calculator/bin/Debug/Calculator.pdb
+/Users/benedictkawala/Projects/Calculator/obj/Debug/Calculator.csproj.AssemblyReference.cache
+/Users/benedictkawala/Projects/Calculator/obj/Debug/Calculator.csproj.CoreCompileInputs.cache
+/Users/benedictkawala/Projects/Calculator/obj/Debug/Calculator.exe
+/Users/benedictkawala/Projects/Calculator/obj/Debug/Calculator.pdb
