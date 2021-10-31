@@ -1,4 +1,6 @@
 ﻿
+//This is my first project :) 
+
 using System;
 
 namespace Calculator
